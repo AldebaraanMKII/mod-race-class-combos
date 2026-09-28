@@ -1,5 +1,10 @@
 # mod-race-class-combos
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=mod-race-class-combos)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=mod-race-class-combos)
+<!-- links:end -->
+
 An [AzerothCore](https://www.azerothcore.org/) module (WotLK 3.3.5a) that unlocks additional
 race/class combinations.
 
